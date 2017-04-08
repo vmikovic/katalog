@@ -1,0 +1,789 @@
+2014
+Automatsko upravljanje
+Debeljković D.
+LINEARNI STOHASTIČNI SISTEMI
+I izdanje
+1100
+2014
+Automatsko upravljanje
+Debeljković D.
+IDENTIFIKACIJA PROCESA
+I izdanje
+1100::::::2014
+Automatsko upravljanje
+Debeljković D.
+ZBIRKA ZADATAKA IZ DINAMIKE POSEBNIH KLASA SAU
+I izdanje
+1100::::::2013
+Automatsko upravljanje
+Debeljković D.
+ZBIRKA ZADATAKA IZ DINAMIKE OBJEKATA I PROCESA
+I izdanje
+1050::::::2013
+Automatsko upravljanje
+Debeljković D.
+DINAMIKA OBJEKATA I PROCESA
+I izdanje
+1050::::::2013
+Automatsko upravljanje
+Debeljković D.
+DINAMIKA POSEBNIH KLASA SAU
+I izdanje
+1050::::::2012
+Automatsko upravljanje
+Lazić D., Ristanović M
+UVOD U MATLAB
+II izdanje
+1080::::::2009
+Automatsko upravljanje
+Debeljković D.
+SINTEZA I PROJEKTOVANjE LINEARNIH SAU
+I izdanje
+1190::::::2008
+Automatsko upravljanje
+Debeljković D.
+Zbirka zadataka iz sinteze linearnih sistema
+2. izdanje
+890::::::2006
+Automatsko upravljanje
+Lazarević M.
+ZBIRKA ZADATAKA IZ MEHANIKE ROBOTA
+I izdanje
+790::::::1992
+Automatsko upravljanje
+Debeljković D.
+STOHASTIČKI LINEARNI SISTEMI AUTOMATSKOG UPRAVLjANjA
+II izdanje
+50::::::1991
+Automatsko upravljanje
+Grujić Lj.
+DISKRETNI SISTEMI
+III izdanje
+260::::::1991
+Automatsko upravljanje
+Grujić Lj.
+PROCESNI RAČUNARI
+II izdanje
+50::::::1987
+Automatsko upravljanje
+Debeljković D.
+OSNOVI TEORIJE IDENTIFIKACIJE OBJEKATA I PROCESA
+I izdanje::::::2007
+Brodogradnja
+Šuša M.
+Tehnologija brodogradnje
+I izdanje
+870::::::2005
+Brodogradnja Motok, M.
+ČVRSTOĆA BRODA - ODABRANA POGLAVLJA STATIČKE ANALIZE
+I izdanje
+1130::::::2014
+Fizika i elektrotehnika
+Ilić J., Trifković Z., Jovanović J., Vasić A., Pavlović V.
+ZBIRKA REŠENIH ISPITNIH ZADATAKA IZ FIZIKE
+V izdanje
+590::::::2008
+Fizika i elektrotehnika
+Kandić D.
+ELEKTROTEHNIKA
+II izdanje
+790::::::
+2004
+Fizika i elektrotehnika
+Žižić O.
+ZBIRKA ZADATAKA IZ FIZIKE
+V izdanje
+330::::::2002
+Fizika i elektrotehnika
+Žižić O.
+FIZIKA 2 - TALASI I KVANTNA FIZIKA
+V izdanje
+260::::::1995
+Fizika i elektrotehnika
+Aničin B.
+ELEMENTI ELEKTRONIKE
+I izdanje
+50::::::2010
+Hidroenergetika
+Protić Z., Nedeljković M.
+PUMPE I VENTILATORI, PROBLEMI, REŠENjA, TEORIJA
+VI izdanje
+1150::::::2006
+Hidroenergetika
+Benišek M., Kilibarda R., Nedeljković M., Gerasimović D.
+TEHNIKA MERENjA - Zbirka zadataka iz strujno tehničkih merenja
+III izdanje
+590::::::2005
+Hidroenergetika
+Krsmanović, Lj., Gajić, A.
+TURBOMAŠINE - TEORIJSKE OSNOVE
+II izdanje
+756::::::2000
+Hidroenergetika
+Krsmanović Lj., Gajić A.
+TURBOMAŠINE – VENTILATORI
+I izdanje
+400::::::1992
+Hidroenergetika
+Gajić Z., Krsmanović V., Pejović D.
+TURBOMAŠINE – zadaci
+I izdanje
+180::::::2014
+Industrijsko inženjerstvo
+Pokrajac S.
+OSNOVI SOCIOLOGIJE
+I izdanje
+950::::::2013
+Industrijsko inženjerstvo
+Pokrajac S., Dondur N.
+UVOD U EKONOMIJU
+I izdanje
+580::::::2013
+Industrijsko inženjerstvo
+Žunjić A., Ćulić M.
+Praktikum za laboratorijske vežbe iz industrijske ergonomije
+II izdanje
+510::::::2011
+Industrijsko inženjerstvo
+Kostić D.
+ENGINEERING ENGLISH
+XI izdanje
+390::::::2011
+Industrijsko inženjerstvo
+Bugarić U., Petrović D.
+MODELIRANJE SISTEMA OPSLUŽIVANJA
+I izdanje
+1090::::::2009
+Industrijsko inženjerstvo
+Krnjaić - Cekić N., Arsenijević N.
+TEHNIČKI REČNIK NEMAČKO - SRPSKI
+II izdanje
+1080::::::2007
+Industrijsko inženjerstvo
+Klarin M., Žunjić A.
+Industrijska ergonomija
+1. izdanje
+690::::::1998
+Industrijsko inženjerstvo
+Mihailović Ž.
+UDŽBENIK FRANCUSKOG JEZIKA
+III izdanje
+50::::::1995
+Industrijsko inženjerstvo
+Klarin M.
+INDUSTRIJSKO INŽENjERSTVO I - Organizacija i planiranje proizvodnih procesa
+III izdanje
+190::::::1991
+Industrijsko inženjerstvo
+Nestorov Lj.
+RUSKI JEZIK I
+III izdanje
+50::::::1990
+Industrijsko inženjerstvo
+Jovanović T., Jovanović P., Đurđević P.
+PRIMENA TEHNIKE MREŽNOG PLANIRANjA
+II izdanje
+50::::::1989
+Industrijsko inženjerstvo
+Jovanović D.
+ORGANIZACIJA ODRŽAVANjA MAŠINE
+I izdanje
+50::::::2009
+Mašinski fakultet
+Spasić Ž.
+INFORMACIONA INTEGRACIJA POSLOVNIH FUNKCIJA
+I izdanje
+1920::::::2008
+Mašinski fakultet
+BIBLIOGRAFIJA MAGISTARSKIH TEZA
+500::::::2008
+Mašinski fakultet
+BIBLIOGRAFIJA DOKTORSKIH DISERTACIJA
+500::::::2002
+Mašinski fakultet
+BIBLIOGRAFIJA DIPLOMIRANIH INŽENJERA
+500::::::2013
+Matematika Cvetković A., Spalević M.
+NUMERIČKE METODE
+I izdanje
+720::::::2012
+Matematika Cvetković A., Radojević S.
+MATLAB 1
+I izdanje
+920::::::2009
+Matematika Aranđelović I., Mitrović Č., Minić S., Lazović G.
+PROGRAMSKI JEZIK FORTRAN
+I izdanje
+590::::::2008
+Matematika Simonović V.
+Numeričke metode
+5. izdanje
+490::::::2014
+Mehanika Glišić M., Trišović N., Jeremić O., Milićev S., Zeković D.
+ZBIRKA ZADATAKA IZ STATIKE SA IZVODIMA IZ TEORIJE
+VII izdanje
+830::::::2014
+Mehanika V
+uković J., Simonović M., Obradović A., Marković S.
+ZBIRKA ZADATAKA IZ DINAMIKE
+V izdanje
+840::::::2014
+Mehanika
+Golubović Z., Simonović M., Mitrović Z.: Mehanika
+Statika
+VI izdanje
+790::::::2012
+Mehanika
+Mladenović N., Mitrović Z., Stokić Z.
+KINEMATIKA - ZBIRKA ZADATAKA
+VI izdanje
+560::::::2011
+Mehanika
+Pavišić M.,Golubović Z., Mitrović Z.
+Mehanika - Dinamika sistema
+I izdanje
+760::::::2011
+Mehanika
+Mitrović Z.,Golubović Z., Simonović M.
+Mehanika - Dinamika tačke
+I izdanje
+790::::::2011
+Mehanika
+Simonović M., Mitrović Z.,Golubović Z.
+Mehanika - Kinematika
+I izdanje
+750::::::2009
+Mehanika
+Čović V., Lazarević M.
+MEHANIKA ROBOTA
+I izdanje
+890::::::2008
+Mehanika
+Mladenović N.
+MEHANIKA II – kinematika
+IV izdanje
+490::::::2007
+Mehanika
+Vuković J., Obradović A.
+LINEARNE OSCILACIJE MEHANIČKIH SISTEMA
+I izdanje
+660::::::2004
+Mehanika
+Pavišić M., Stokić Z., Trišović N.
+PRIRUČNIK ZA SAMOSTALNE VEŽBE IZ MEHANIKE - Dinamika tačke i dinamika sistema
+III izdanje
+330::::::1992
+Mehanika
+Batj M.I., Džandzelize G.J., Kelzon A.S.
+REŠENI ZADACI IZ TEORIJSKE MEHANIKE I deo - statika i kinematika
+I izdanje
+50::::::1990
+Mehanika
+Radosavljević Lj.
+SPECIJALNI ZADACI IZ DINAMIKE
+III izdanje
+50::::::1989
+Mehanika
+Butenin N.
+ELEMENTI ТEORIJE NELINEARNIH OSCILACIJA
+I izdanje
+50::::::1986
+Mehanika
+Radosavljević Lj.
+MALE OSCILACIJE MATERIJALNOG SISTEMA
+III izdanje.
+50::::::2014
+Mehanika fluida
+Crnojević C.
+MEHANIKA FLUIDA
+I izdanje 1
+160::::::2014
+Mehanika fluida
+Stevanović N.
+OSNOVE MIKROFLUIDIKE I NANOFLUIDIKE
+I izdanje
+860::::::2013
+Mehanika fluida
+Crnojević C.
+KLASIČNA I ULjNA HIDRAULIKA
+IV izdanje
+970::::::2012
+Mehanika fluida
+Čantrak S.
+HIDRODINAMIKA
+V dopunjeno izdanje
+1250::::::2005
+Mehanika fluida
+Pavlović M., Stefanović Z.
+PRIRUČNIK ZA PRORAČUN FLUIDA
+VII izdanje
+190::::::2005
+Mehanika fluida
+Đorđević V.
+DINAMIKA JEDNODIMENZIJSKIH STRUJANJA FLUIDA
+IV izdanje
+380::::::1989
+Mehanika fluida
+Ašković T.
+PRAKTIKUM ZA VEŽBE IZ MEHANIKE FLUIDA, HIDRAULIKE I PNEUMATIKE
+I izdanje
+50::::::2012
+Mehanizacija
+Zrnić N., Đorđević M..
+DIZAJN I EKOLOGIJA-ODRŽIVI RAZVOJ PROIZVODA
+I izdanje
+1550::::::1994
+Mehanizacija
+Ostrić D.
+DINAMIKA MOSNIH DIZALICA
+I izdanje
+190::::::1994
+Mehanizacija
+Zrnić Đ., Petrović D.
+KRETANjE MATERIJALA I STOHASTIČKI PROCESI
+I izdanje
+90::::::2014
+Motori
+Tomić M., Petrović S.
+MOTORI SA UNUTRAŠNjIM SAGOREVANjEM
+V izdanje
+980::::::2012
+Motori
+Tomić M.
+OPREMA MOTORA
+II izdanje
+790::::::1992
+Motori
+Petrović S., Tomić M.
+OSNOVI KLIPNIH MOTORA SUS
+I izdanje
+130::::::1990
+Motori
+Živković M., Trifunović R.
+MOTORI SUS II deo, druga sveska
+III izdanje
+130::::::2011
+Motorna vozila
+Popović B.,Ivanović G.
+SISTEM ŠEST SIGMA U PROJEKTOVANJU REZULTATA PROCESA
+I izdanje
+1080::::::2010
+Motorna vozila
+Ivanović G., Stanivuković D., Beker I.
+POUZDANOST TEHNIČKIH SISTEMA
+I izdanje
+1080::::::2002
+Motorna vozila
+Janićijević N.
+AUTOMATIZACIJA SISTEMA MOTORNIH VOZILA
+I izdanje
+50::::::2000
+Motorna vozila
+Mitrović Č., Vasić B.
+INFORMATIKA U MAŠINSTVU
+I izdanje
+50::::::2000
+Motorna vozila
+Vasić B., Janković D., Curović D.
+TEHNOLOGIJA ODRŽAVANjA VOZILA
+I izdanje.
+620::::::1992
+Motorna vozila
+Janković D.
+UPUTSTVO ZA IZRADU VUČNOG PRORAČUNA MOTORNIH VOZILA
+I izdanje
+180::::::2014
+Opšte mašinske konstrukcije
+Ognjanović,M.
+INOVATIVNI RAZVOJ tehničkih sistema
+I izdanje
+1350::::::2014
+Opšte mašinske konstrukcije
+Ognjanović,M.
+MAŠINSKI ELEMENTI
+IX izdanje
+1150::::::2013
+Opšte mašinske konstrukcije
+Lazović T.
+MAŠINSKI ELEMENTI-ZBIRKA ZADATAKA
+I izdanje
+590::::::2011
+Opšte mašinske konstrukcije
+Marinković,A., Stanković M.
+MODELIRANJE MAŠINSKIH DELOVA SLOŽENIH OBLIKA
+I izdanje
+790::::::2007
+Opšte mašinske konstrukcije
+Ognjanović,M.
+RAZVOJ I DIZAJN MAŠINA
+I izdanje
+950::::::2004
+Opšte mašinske konstrukcije
+Veriga S.
+MAŠINSKI ELEMENTI II
+XI izdanje
+380::::::2013
+Otpornost konstrukcija
+Ružić D., Čukić R., Dunjić M., Milovančević M., Anđelić N., Milošević- Mitić V.
+OTPORNOST MATERIJALA 5, Tablice
+VIII izdanje
+460::::::2010
+Otpornost konstrukcija
+Milovančević M., Anđelić N.
+OTPORNOST MATERIJALA
+II izdanje
+450::::::2013
+Poljoprivredno mašinstvo
+Topić R.
+SUŠENJE I HIGROTERMIČKI PROCESI
+I izdanje
+890::::::2013
+Poljoprivredno mašinstvo
+Topić R.
+OBNOVLJIVI I SEKUNDARNI RESURSI
+I izdanje
+930::::::2013
+Poljoprivredno mašinstvo
+Topić R.
+OSNOVE POJAVA PRENOŠENJA I TEHNIKE SUŠENJA
+I izdanje
+940::::::2013
+Poljoprivredno mašinstvo
+Topić R.
+SPECIJALNE TEHNIKE I TEHNOLOGIJE PROCESA SUŠENJA
+I izdanje
+920::::::2013
+Poljoprivredno mašinstvo
+Topić R.
+PROJEKTOVANJE POSTROJENJA I PROCESNIH I ENERGETSKIH SISTEMA
+I izdanje
+1100::::::2014
+Procesna tehnika
+Stanojević M., Simić S., Jovović A., Radić D.,Obradović M., Todorović D.
+BIOGAS - dobijanje i primena
+I izdanje
+740::::::2010
+Procesna tehnika
+Jaćimović B., Genić S.
+DIFUZIONE OPERACIJE I APARATI, DEO II, DIFUZIONE OPERACIJE
+I izdanje
+1250::::::2007
+Procesna tehnika
+Jaćimović B., Genić S.
+DIFUZIONE OPERACIJE I APARATI, DEO I, OSNOVI TRANSPORTA SUPSTANCI
+I izdanje
+700::::::2000
+Procesna tehnika
+Bogner M., Vuković Đ.
+PROBLEMI IZ DINAMIČKIH I HIDRODINAMIČKIH OPERACIJA
+I izdanje
+140::::::1998
+Procesna tehnika
+Voronjec D.
+TEHNOLOŠKE OPERACIJE
+V izdanje
+300::::::1993
+Procesna tehnika
+Bogner M., Jaćimović B.
+PRAKTIKUM IZ OSNOVA TEHNOLOŠKIH PROCESA I APARATA
+II izdanje
+130::::::2014
+Proizvodno mašinstvo
+Kalajdžić M.
+TEHNOLOGIJA MAŠINOGRADNjE
+XI izdanje
+1510::::::2012
+Proizvodno mašinstvo
+Mladenović G., Bojanić P.
+CAD/CAM sistemi - Priručnik za vežbe
+I izdanje
+530::::::2012
+Proizvodno mašinstvo
+Kalajdžić M., Tanović Lj., Babić B., Glavonjić M,. Miljković Z., Puzović R., Kokotović B., Popović M., Živanović S., Tošić D., Vasić I.
+TEHNOLOGIJA OBRADE REZANjEM, Priručnik
+VII izdanje, tvrd povez
+2850::::::2011
+Proizvodno mašinstvo
+Tanović, Lj., Jovicić, M.
+ALATI I PRIBORI - PROJEKTOVANJE; PRORAČUNI I KONSTRUKCIJE POMOĆNIH PRIBORA
+II izdanje
+1390::::::2010
+Proizvodno mašinstvo
+Miljković Z., Aleksendrić D.
+VEŠTAČKE NEURONSKE MREŽE, zbirka rešenih zadataka sa izvodima iz teorije
+I izdanje
+910::::::2010
+Proizvodno mašinstvo
+Bojanić P., Puzović P.
+PROIZVODNI SISTEMI APT-JEZIK,Programiranje numerički upravljanih mašina alatki
+II izdanje
+630::::::2007
+Proizvodno mašinstvo
+Jovičić M., Tanović Lj.
+ALATI I PRIBORI - proračuni i konstrukcije alata za izradu delova od lima
+II izdanje
+880::::::2007
+Proizvodno mašinstvo
+Tanović Lj., Petrakov J.
+TEORIJA I SIMULACIJA PROCESA OBRADE
+I izdanje
+890::::::2004
+Proizvodno mašinstvo
+Babić B.
+PROJEKTOVANJE TEHNOLOŠKIH PROCESA
+II izdanje
+640::::::2000
+Proizvodno mašinstvo
+Majstorović V.
+UPRAVLjANjE KVALITETOM PROIZVODA
+I izdanje
+220::::::1999 Proizvodno mašinstvo
+Nikolić D.
+TEORIJA PROCESA OBRADE II, Teorija procesa obrade metala deformisanjem
+I izdanje
+250::::::1998
+Proizvodno mašinstvo
+Stanić J.
+UVOD U TEORIJU TEHNOEKONOMSKE OPTIMIZACIJE
+V izdanje
+50::::::1998
+Proizvodno mašinstvo
+Nikolić D.
+PROJEKTOVANjE TEHNOLOŠKIH PROCESA II - Obrada deformisanjem (kovanjem)
+I izdanje
+400::::::1997
+Proizvodno mašinstvo
+Nikolić D., Jovanović T., Stanić J., Gajović V.
+MAŠINSKA OBRADA I
+IX izdanje
+50::::::1997
+Proizvodno mašinstvo
+Nikolić D.
+PROJEKTOVANjE TEHNOLOŠKIH PROCESA I - Obrada rezanjem
+I izdanje
+400::::::1995
+Proizvodno mašinstvo
+Šolaja V.
+ALATI ZA OBRADU LIMA
+IV izdanje
+120::::::1995
+Proizvodno mašinstvo
+Stanić J.
+UPRAVLjANjE KVALITETOM PROIZVODA - metodi I
+III izdanje
+280::::::1994
+Proizvodno mašinstvo
+Milačić V., Bojanić P.
+TEHNIČKA KIBERNETIKA
+II izdanje
+50::::::1994 Proizvodno mašinstvo
+Stanić J.
+TEORIJA PROCESA OBRADE
+III izdanje
+50::::::1993
+Proizvodno mašinstvo
+Tanović Lj.
+REZNA KERAMIKA
+I izdanje
+50::::::1991
+Proizvodno mašinstvo
+Milačić V.
+MAŠINE ALATKE I
+III izdanje
+170::::::1991
+Proizvodno mašinstvo
+Stanić J.
+TEHNOLOŠKI MERNI SISTEMI
+IV izdanje
+260::::::1990
+Proizvodno mašinstvo
+Milačić V.
+MAŠINE ALATKE II
+III izdanje
+170::::::1990
+Proizvodno mašinstvo
+Stanić J.
+METOD INŽENjERSKIH MERENjA
+V izdanje
+50::::::1990
+Proizvodno mašinstvo
+Jovičić M., Dimitrijević Lj.
+PRIRUČNIK POMOĆNI PRIBORI
+III izdanje
+240::::::1990
+Proizvodno mašinstvo
+Milačić V.
+PROIZVODNI SISTEMI I
+IV izdanje
+50::::::1990
+Proizvodno mašinstvo
+Milačić V.
+PROIZVODNI SISTEMI III
+II izdanje
+50::::::1990
+Proizvodno mašinstvo
+Milačić V.
+TEORIJA PREPOZNAVANjA IŽENjERSKIH SISTEMA
+II izdanje
+50::::::1990
+Proizvodno mašinstvo
+Jovičić M.
+OBRADA BRUŠENjEM
+II izdanje
+50::::::1988
+Proizvodno mašinstvo
+Milačić V
+METOD LABORATORIJSKIH MERENjA II
+III izdanje
+50::::::2014
+Tehnologija materijala
+Prokić Cvetković R., Smiljanić P., Radaković Z., Bakić G., Popović O., Đukić M.
+MAŠINSKI MATERIJALI - PRIRUČNIK ZA LABORATORIJSKE VEŽBE, 1. deo
+VI izdanje
+350::::::2012
+Tehnologija materijala
+Prokić Cvetković R., Popović O..: MAŠINSKI MATERIJALI 1
+I izdanje
+920::::::2007
+Tehnologija materijala
+Rac A.
+Maziva i podmazivanje mašina
+I izdanje
+750::::::1996
+Tehnologija materijala
+Radovanović M.
+POGONSKE MATERIJE - ind. voda
+V izdanje
+90::::::1986
+Tehnologija materijala
+Radovanović M.
+PRIRUČNIK ZA LABORATORIJSKE VEŽBE IZ SAGOREVANjA
+II izdanje
+50::::::2014
+Teorija mehanizama i mašina
+Đorđević S., Petrović, D.
+INŽENJERSKA GRAFIKA - praktikum za vežbe
+IX izdanje
+450::::::2014
+Teorija mehanizama i mašina
+Veg A., Miladinović Lj., Stoimenov M., Popkonstantinović B.
+KONSTRUKTIVNA GEOMETRIJA, III izdanje
+390::::::2013
+Teorija mehanizama i mašina
+Petrović D, Đorđević S., Stoimenov M., Miladinović LJ.
+INŽENJERSKA GRAFIKA
+I izdanje
+550::::::2013
+Teorija mehanizama i mašina
+Popkonstantinović B., Jeli Z., Andrejević R., Šiniković G.
+KONSTRUKTIVNA GEOMETRIJA I GRAFIKA-praktikum
+III izdanje
+290::::::1986
+Teorija mehanizama i mašina
+Pantelić T., Ćulafić G.
+MEHANIZMI – SINTEZA
+III izdanje
+50::::::1990
+Termoenergetika
+Vasiljević N.
+PARNE TURBINE
+III izdanje
+200::::::2013
+Termomehanika
+Vasiljević B., Banjac M.
+MAPA ZA TERMODINAMIKU
+V izdanje
+450::::::2012
+Termomehanika
+Vasiljević B., Banjac M.
+PRIRUČNIK ZA TERMODINAMIKU,TABELE I DIJAGRAMI
+II izdanje
+1100::::::2010
+Termomehanika
+Vasiljević B., Banjac M.
+MAPA ZA TERMODINAMIKU
+IV izdanje
+390::::::2007
+Termomehanika
+Kozić Đ., Gojak M., Komatina M., Antonijević D., Saljnikov A.
+ZBIRKA ZADATAKA IZ PRENOŠENjA TOPLOTE
+II izdanje
+300::::::2014
+Termotehnika
+Brkić Lj., Živanović T., Tucaković D.
+PARNI KOTLOVI
+V izdanje
+1200::::::2013
+Termotehnika
+Markoski M.
+RASHLADNI UREĐAJI, komplet
+II izdanje
+3490::::::2010
+Termotehnika
+Brkić Lj., Živanović T., Tucaković D.
+TERMOELEKTRANE
+II izdanje
+920::::::2010
+Termotehnika
+Brkić Lj., Živanović T., Tucaković D.
+TERMIČKI PRORAČUN PARNIH KOTLOVA
+IV izdanje
+990::::::2009
+Termotehnika
+Markoski M.
+CEVNI VODOVI
+V izdanje
+825::::::2009
+Termotehnika
+Todorović B.
+PROJEKTOVANJE POSTROJENJA ZA CENTRALNO GREJANJE
+XI izdanje
+1510::::::2011
+Vazduhoplovstvo
+Fotev V.
+VAZDUHOPLOVNI PROPULZORI-PRAKTIKUM
+I izdanje
+990::::::2003
+Vazduhoplovstvo
+Pešić S., Cvetković D., Bengin A.
+ELISE
+I izdanje
+270::::::1997
+Vazduhoplovstvo
+Petrović Z., Stupar S.
+FUNDAMENTAL EQUATIONS OF AERODYNAMICS
+I izdanje
+250::::::1996
+Vazduhoplovstvo
+Stupar S., Petrović Z.
+COMPUTATIONAL FLUID DYNAMIC - part one
+I izdanje
+460::::::2011
+Vojno mašinstvo
+Jaramaz S., Micković D.
+UNUTRAŠNjA BALISTIKA
+II izdanje
+710::::::2005
+Vojno mašinstvo
+Vasiljević D.
+OPTIČKI UREĐAJI I OPTOELEKTRONIKA
+I izdanje
+750::::::2002
+Vojno mašinstvo
+Milinović M.
+OSNOVI PROJEKTOVANjA RAKETA I LANSERA, Poglavlja iz projektovanja lansera
+I izdanje
+640::::::1997
+Vojno mašinstvo
+Jaramaz S.
+PHYSICS OF EXPLOSION
+I izdanje
+220::::::2007
+Železničko mašinstvo
+Milovanović M., Lišanin R., Vukšić M.,Kržić Đ.
+Kočnice i kočenje šinskih vozila, 2. deo
+I izdanje 450::::::1996
+Železničko mašinstvo
+Lučanin V.
+TEORIJA VUČE
+I izdanje
